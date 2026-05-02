@@ -6,9 +6,9 @@ A 2D puzzle game built using Python and Pygame where the player uses a clone mec
 Gameplay
 
 
-- Move through a procedurally generated map\
-- Use a clone to hold pressure plates\
-- Open doors and reach the goal\
+- Move through a procedurally generated map
+- Use a clone to hold pressure plates
+- Open doors and reach the goal
 - Avoid walls or you die
 
  Core Mechanics
@@ -22,11 +22,15 @@ Gameplay
 
 Controls
 -WASD to move
+
 -C to place a clone
+
 -R to restart
+
 -Esc to quit
 
  How to Run
 
 pip install pygame
+
 python clone_game.py
